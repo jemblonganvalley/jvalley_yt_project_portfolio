@@ -12,7 +12,7 @@ pnpm run dev
 ## Link
 - Design File [Figma](https://www.figma.com/file/7zrgWu3MLKWkhxyawlLHXZ/portfolio_web?node-id=1%3A57)
 - Source Code [Github](https://github.com/jemblonganvalley/jvalley_yt_project_portfolio)
-- Live Preview [stackblitz]()
+- Live Preview [stackblitz](https://stackblitz.com/edit/vitejs-vite-s8qp6w?file=src/constant/dataSkill.js)
 
 ## Stack
 - PNPM [link](https://pnpm.io/id/)
